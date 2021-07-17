@@ -1,3 +1,4 @@
+
 public class AsciiValue {
 
     public static void main(String[] args) {
@@ -8,6 +9,4 @@ public class AsciiValue {
         int castAscii = (int) ch;
 
         System.out.println("The ASCII value of " + ch + " is: " + ascii);
-        System.out.println("The ASCII value of " + ch + " is: " + castAscii);
-    }
-}
+        System.out.println("The ASCII value of " + ch + " i
